@@ -1,4 +1,4 @@
-S# SenchaDraw
+# SenchaDraw
 
 Simple project for creating a very simple Draw Something kind of apps using Sencha Touch 2
 
