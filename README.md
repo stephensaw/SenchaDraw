@@ -6,7 +6,7 @@ Simple project for creating a very simple Draw Something kind of apps using Senc
 
 - Run on Sencha Touch 2.0.1.1 (haven't test on newer version)
 - Cannot run in localhost due to cross domain problem, can be run using IP address for localhost
-- Database name "**SenchaDraw**" with a table "**Drawing**":
+- Database name **SenchaDraw** with a table **Drawing**:
  
 | Column    | DataType      |
 |-----------|:-------------:|
